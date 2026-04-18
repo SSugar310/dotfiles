@@ -9,3 +9,4 @@ set shiftwidth=4
 set hlsearch
 set incsearch
 set backspace=indent,eol,start
+set mouse=a

@@ -1,0 +1,11 @@
+set encoding=utf-8
+set fileencoding=utf-8
+set fileencodings=utf-8,cp932,euc-jp,iso-2022-jp
+syntax on
+set number
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set hlsearch
+set incsearch
+set backspace=indent,eol,start

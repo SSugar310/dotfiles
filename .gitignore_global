@@ -1,0 +1,17 @@
+# Editor temp/swap
+*.swp
+*.swo
+*~
+.viminfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / caches
+*.log
+.cache/
+
+# Python
+__pycache__/
+*.pyc

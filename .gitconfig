@@ -1,0 +1,10 @@
+[user]
+    name = SSugar310
+    email = trent1203@gmail.com
+[init]
+    defaultBranch = main
+[core]
+    editor = vim
+    excludesfile = ~/.gitignore_global
+[pull]
+    rebase = false
